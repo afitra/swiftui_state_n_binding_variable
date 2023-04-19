@@ -11,6 +11,9 @@
 		85B5303029EFDB5E00227A00 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B5302F29EFDB5E00227A00 /* ContentView.swift */; };
 		85B5303229EFDB6100227A00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85B5303129EFDB6100227A00 /* Assets.xcassets */; };
 		85B5303529EFDB6100227A00 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85B5303429EFDB6100227A00 /* Preview Assets.xcassets */; };
+		85B5303C29EFDB7B00227A00 /* Layer1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B5303B29EFDB7B00227A00 /* Layer1.swift */; };
+		85B5303E29EFDB9000227A00 /* Layer2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B5303D29EFDB9000227A00 /* Layer2.swift */; };
+		85B5304029EFDE7800227A00 /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B5303F29EFDE7800227A00 /* Detail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		85B5302F29EFDB5E00227A00 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		85B5303129EFDB6100227A00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85B5303429EFDB6100227A00 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		85B5303B29EFDB7B00227A00 /* Layer1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layer1.swift; sourceTree = "<group>"; };
+		85B5303D29EFDB9000227A00 /* Layer2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layer2.swift; sourceTree = "<group>"; };
+		85B5303F29EFDE7800227A00 /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				85B5302D29EFDB5E00227A00 /* state_n_binding_variableApp.swift */,
 				85B5302F29EFDB5E00227A00 /* ContentView.swift */,
+				85B5303B29EFDB7B00227A00 /* Layer1.swift */,
+				85B5303D29EFDB9000227A00 /* Layer2.swift */,
+				85B5303F29EFDE7800227A00 /* Detail.swift */,
 				85B5303129EFDB6100227A00 /* Assets.xcassets */,
 				85B5303329EFDB6100227A00 /* Preview Content */,
 			);
@@ -138,6 +147,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				85B5303029EFDB5E00227A00 /* ContentView.swift in Sources */,
+				85B5304029EFDE7800227A00 /* Detail.swift in Sources */,
+				85B5303C29EFDB7B00227A00 /* Layer1.swift in Sources */,
+				85B5303E29EFDB9000227A00 /* Layer2.swift in Sources */,
 				85B5302E29EFDB5E00227A00 /* state_n_binding_variableApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
